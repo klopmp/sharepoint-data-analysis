@@ -15,9 +15,9 @@ Python comes into the picture beautifully.
 
 
 # Game Plan
-Import SharePoint list data into Pandas DataFrames.
-Transform and cleanse data using techniques (Split, Join, Apply, Stack).
-Visualize data using Seaborn package.
+* Import SharePoint list data into Pandas DataFrames.
+* Transform and cleanse data using techniques (Split, Join, Apply, Stack).
+* Visualize data using Seaborn package.
 
 
 # Resources
