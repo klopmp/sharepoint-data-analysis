@@ -21,5 +21,5 @@ Visualize data using Seaborn package.
 
 
 # Resources
-<a href="http://pandas.pydata.org/">Pandas</a>
-<a href="https://stanford.edu/~mwaskom/software/seaborn/">Seaborn</a>
+* <a href="http://pandas.pydata.org/">Pandas</a>
+* <a href="https://stanford.edu/~mwaskom/software/seaborn/">Seaborn</a>
