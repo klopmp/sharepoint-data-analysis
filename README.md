@@ -1,7 +1,7 @@
 # SharePoint List Data Analysis
 Whenever using a mutli-choice choice column in a SharePoint list, you will run into a lot of fun parsing data for analysis. Similar to HTML, all selected choices are stored as a single field with delimiters. In this case, SharePoint uses "#;".
 
-In this example, we have a SharePoint list called Company Offices. Each company may have 1 or more global offices. There isn't an really easy way to achieve within SharePoint itself. Solutions like SQL Server Reporting Services (SSRS) and SQL Server Integration Services (SSIS) are pontentail candidates. 
+In this example, we have a SharePoint list called Company Offices. Each company may have 1 or more global offices. There isn't an really easy way to achieve within SharePoint itself. Solutions like SQL Server Reporting Services (SSRS) and SQL Server Integration Services (SSIS) are potential candidates. 
 
 What if the token requirement is "We needed this yesterday for an executive report"? It will take a little longer to spin up the above services!
 
